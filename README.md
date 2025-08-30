@@ -13,19 +13,16 @@ A Computer Vision project using AI/ML to detect stains on fabric images. This he
 🛠️ Tech Stack
 
 
-Python
-OpenCV (image processing)
-TensorFlow / Keras / Scikit-learn (ML/DL models)
-Flask 
+Python,
+OpenCV,
+TensorFlow / Keras / Scikit-learn (ML/DL models),
+Flask, 
 Matplotlib, NumPy, Pandas
 
 🚀 How It Works
 Collect fabric images (with and without stains).
-
 Preprocess images (resize, grayscale, normalize).
-
 Train an ML/DL model to classify/detect stained regions.
-
 Run predictions on new fabric images.
 
 Output result 
